@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/687a5bd3-0aab-4468-a418-5bd29352cff6/resourceGroups/TestResourceGroup/providers/Microsoft.Web/sites/awesome-backend",
+    "appService.deploySubpath": "."
+}
